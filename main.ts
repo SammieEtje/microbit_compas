@@ -1,6 +1,5 @@
 let degrees = 0
 input.calibrateCompass()
-basic.showArrow(ArrowNames.North)
 basic.forever(function () {
     degrees = input.compassHeading()
     if (degrees < 45) {

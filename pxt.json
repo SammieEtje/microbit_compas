@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Compas": "github:sammieetje/microbit_compas#3472e39524995b15b3c2247e65d75d126fddd33d"
     },
     "files": [
         "main.blocks",
